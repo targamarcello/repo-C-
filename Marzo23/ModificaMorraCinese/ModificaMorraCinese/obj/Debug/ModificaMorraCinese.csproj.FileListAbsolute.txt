@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\bin\Debug\ModificaMorraCinese.exe.config
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\bin\Debug\ModificaMorraCinese.exe
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\bin\Debug\ModificaMorraCinese.pdb
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\obj\Debug\ModificaMorraCinese.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\obj\Debug\ModificaMorraCinese.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\obj\Debug\ModificaMorraCinese.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\obj\Debug\ModificaMorraCinese.exe
+C:\Users\Marcello\Desktop\vs\esercizi vs\ModificaMorraCinese\ModificaMorraCinese\obj\Debug\ModificaMorraCinese.pdb

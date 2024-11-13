@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\bin\Debug\PaintTestuale.exe.config
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\bin\Debug\PaintTestuale.exe
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\bin\Debug\PaintTestuale.pdb
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\obj\Debug\PaintTestuale.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\obj\Debug\PaintTestuale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\obj\Debug\PaintTestuale.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\obj\Debug\PaintTestuale.exe
+C:\Users\Marcello\Desktop\esercizi vs\PaintTestuale\PaintTestuale\obj\Debug\PaintTestuale.pdb

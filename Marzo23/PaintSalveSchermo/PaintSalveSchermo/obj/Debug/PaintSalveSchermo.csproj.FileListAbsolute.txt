@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\obj\Debug\PaintSalveSchermo.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\obj\Debug\PaintSalveSchermo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\obj\Debug\PaintSalveSchermo.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\bin\Debug\PaintSalveSchermo.exe.config
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\bin\Debug\PaintSalveSchermo.exe
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\bin\Debug\PaintSalveSchermo.pdb
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\obj\Debug\PaintSalveSchermo.exe
+C:\Users\Marcello\Desktop\esercizi vs\PaintSalveSchermo\PaintSalveSchermo\obj\Debug\PaintSalveSchermo.pdb
