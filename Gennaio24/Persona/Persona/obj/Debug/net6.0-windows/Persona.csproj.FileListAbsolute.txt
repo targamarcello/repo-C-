@@ -1,0 +1,17 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\bin\Debug\net6.0-windows\Persona.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\bin\Debug\net6.0-windows\Persona.deps.json
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\bin\Debug\net6.0-windows\Persona.runtimeconfig.json
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\bin\Debug\net6.0-windows\Persona.dll
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\bin\Debug\net6.0-windows\Persona.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.Form1.resources
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.csproj.GenerateResource.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.AssemblyInfoInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.AssemblyInfo.cs
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.dll
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\refint\Persona.dll
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\Persona.genruntimeconfig.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\Persona\Persona\obj\Debug\net6.0-windows\ref\Persona.dll

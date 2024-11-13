@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\bin\Debug\TulipanoBecchiati.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\bin\Debug\TulipanoBecchiati.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\bin\Debug\TulipanoBecchiati.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\obj\Debug\TulipanoBecchiati.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\obj\Debug\TulipanoBecchiati.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\obj\Debug\TulipanoBecchiati.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\obj\Debug\TulipanoBecchiati.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\TulipanoBecchiati\TulipanoBecchiati\obj\Debug\TulipanoBecchiati.pdb

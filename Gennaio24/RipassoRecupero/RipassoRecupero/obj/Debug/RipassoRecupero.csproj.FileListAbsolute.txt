@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\bin\Debug\RipassoRecupero.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\bin\Debug\RipassoRecupero.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\bin\Debug\RipassoRecupero.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\obj\Debug\RipassoRecupero.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\obj\Debug\RipassoRecupero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\obj\Debug\RipassoRecupero.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\obj\Debug\RipassoRecupero.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoRecupero\RipassoRecupero\obj\Debug\RipassoRecupero.pdb

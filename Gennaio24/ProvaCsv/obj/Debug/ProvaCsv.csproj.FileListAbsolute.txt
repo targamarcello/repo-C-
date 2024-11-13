@@ -1,0 +1,15 @@
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\bin\Debug\ProvaCsv.exe.config
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\bin\Debug\ProvaCsv.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\bin\Debug\ProvaCsv.pdb
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\obj\Debug\ProvaCsv.csproj.AssemblyReference.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\obj\Debug\ProvaCsv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\obj\Debug\ProvaCsv.csproj.CoreCompileInputs.cache
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\obj\Debug\ProvaCsv.exe
+C:\Users\Smart.inf\Desktop\IntroduzioneOOP\ProvaCsv\obj\Debug\ProvaCsv.pdb
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\bin\Debug\ProvaCsv.exe.config
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\bin\Debug\ProvaCsv.exe
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\bin\Debug\ProvaCsv.pdb
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\obj\Debug\ProvaCsv.csproj.AssemblyReference.cache
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\obj\Debug\ProvaCsv.csproj.CoreCompileInputs.cache
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\obj\Debug\ProvaCsv.exe
+F:\ViolaMarchesini23\classi\4F\gennaio\ProvaCsv\obj\Debug\ProvaCsv.pdb
