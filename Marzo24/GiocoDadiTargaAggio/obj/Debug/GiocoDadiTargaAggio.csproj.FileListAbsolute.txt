@@ -1,0 +1,21 @@
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.AssemblyReference.cache
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.Form1.resources
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.Properties.Resources.resources
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.GenerateResource.cache
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.CoreCompileInputs.cache
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\bin\Debug\GiocoDadiTargaAggio.exe.config
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\bin\Debug\GiocoDadiTargaAggio.exe
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\bin\Debug\GiocoDadiTargaAggio.pdb
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.exe
+F:\4^F\Formaggio\C#\form\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\bin\Debug\GiocoDadiTargaAggio.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\bin\Debug\GiocoDadiTargaAggio.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\bin\Debug\GiocoDadiTargaAggio.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.Form1.resources
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.Properties.Resources.resources
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.GenerateResource.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\GiocoDadiTargaAggio\obj\Debug\GiocoDadiTargaAggio.pdb
