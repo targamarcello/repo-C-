@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\bin\Debug\AgendaMetodi.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\bin\Debug\AgendaMetodi.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\bin\Debug\AgendaMetodi.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\obj\Debug\AgendaMetodi.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\obj\Debug\AgendaMetodi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\obj\Debug\AgendaMetodi.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\obj\Debug\AgendaMetodi.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AgendaMetodi\AgendaMetodi\obj\Debug\AgendaMetodi.pdb

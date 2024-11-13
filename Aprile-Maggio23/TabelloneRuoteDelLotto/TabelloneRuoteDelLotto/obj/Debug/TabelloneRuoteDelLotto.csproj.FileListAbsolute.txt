@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\bin\Debug\TabelloneRuoteDelLotto.exe.config
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\bin\Debug\TabelloneRuoteDelLotto.exe
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\bin\Debug\TabelloneRuoteDelLotto.pdb
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\obj\Debug\TabelloneRuoteDelLotto.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\obj\Debug\TabelloneRuoteDelLotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\obj\Debug\TabelloneRuoteDelLotto.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\obj\Debug\TabelloneRuoteDelLotto.exe
+C:\Users\Marcello\Desktop\esercizi vs\TabelloneRuoteDelLotto\TabelloneRuoteDelLotto\obj\Debug\TabelloneRuoteDelLotto.pdb

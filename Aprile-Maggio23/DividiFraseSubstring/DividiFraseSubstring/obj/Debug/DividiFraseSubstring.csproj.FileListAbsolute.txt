@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\bin\Debug\DividiFraseSubstring.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\bin\Debug\DividiFraseSubstring.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\bin\Debug\DividiFraseSubstring.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\obj\Debug\DividiFraseSubstring.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\obj\Debug\DividiFraseSubstring.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\obj\Debug\DividiFraseSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\obj\Debug\DividiFraseSubstring.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\DividiFraseSubstring\DividiFraseSubstring\obj\Debug\DividiFraseSubstring.pdb
