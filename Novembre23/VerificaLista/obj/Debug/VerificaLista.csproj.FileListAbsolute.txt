@@ -1,0 +1,15 @@
+D:\4F 23-24\Targa Marcello\VerificaLista\obj\Debug\VerificaLista.csproj.AssemblyReference.cache
+D:\4F 23-24\Targa Marcello\VerificaLista\obj\Debug\VerificaLista.csproj.CoreCompileInputs.cache
+D:\4F 23-24\Targa Marcello\VerificaLista\bin\Debug\VerificaLista.exe.config
+D:\4F 23-24\Targa Marcello\VerificaLista\bin\Debug\VerificaLista.exe
+D:\4F 23-24\Targa Marcello\VerificaLista\bin\Debug\VerificaLista.pdb
+D:\4F 23-24\Targa Marcello\VerificaLista\obj\Debug\VerificaLista.exe
+D:\4F 23-24\Targa Marcello\VerificaLista\obj\Debug\VerificaLista.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\bin\Debug\VerificaLista.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\bin\Debug\VerificaLista.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\bin\Debug\VerificaLista.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\obj\Debug\VerificaLista.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\obj\Debug\VerificaLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\obj\Debug\VerificaLista.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\obj\Debug\VerificaLista.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\VerificaLista\obj\Debug\VerificaLista.pdb

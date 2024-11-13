@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\bin\Debug\ZooCasaMia.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\bin\Debug\ZooCasaMia.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\bin\Debug\ZooCasaMia.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\obj\Debug\ZooCasaMia.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\obj\Debug\ZooCasaMia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\obj\Debug\ZooCasaMia.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\obj\Debug\ZooCasaMia.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ZooCasaMia\ZooCasaMia\obj\Debug\ZooCasaMia.pdb

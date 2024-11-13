@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\bin\Debug\RipassoMelone.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\bin\Debug\RipassoMelone.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\bin\Debug\RipassoMelone.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\obj\Debug\RipassoMelone.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\obj\Debug\RipassoMelone.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\obj\Debug\RipassoMelone.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\obj\Debug\RipassoMelone.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\RipassoMelone\RipassoMelone\obj\Debug\RipassoMelone.pdb

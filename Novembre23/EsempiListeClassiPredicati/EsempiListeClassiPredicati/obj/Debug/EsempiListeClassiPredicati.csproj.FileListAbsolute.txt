@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\bin\Debug\EsempiListeClassiPredicati.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\bin\Debug\EsempiListeClassiPredicati.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\bin\Debug\EsempiListeClassiPredicati.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\obj\Debug\EsempiListeClassiPredicati.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\obj\Debug\EsempiListeClassiPredicati.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\obj\Debug\EsempiListeClassiPredicati.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\obj\Debug\EsempiListeClassiPredicati.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\EsempiListeClassiPredicati\EsempiListeClassiPredicati\obj\Debug\EsempiListeClassiPredicati.pdb
