@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\bin\Debug\ModificaAnagrafica.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\bin\Debug\ModificaAnagrafica.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\bin\Debug\ModificaAnagrafica.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\obj\Debug\ModificaAnagrafica.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\obj\Debug\ModificaAnagrafica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\obj\Debug\ModificaAnagrafica.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\obj\Debug\ModificaAnagrafica.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\ModificaAnagrafica\ModificaAnagrafica\obj\Debug\ModificaAnagrafica.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetofoEtà", "MetofoEtà\MetofoEtà.csproj", "{46247A3B-1F3D-4EE8-B333-CB20C4CCA7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46247A3B-1F3D-4EE8-B333-CB20C4CCA7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46247A3B-1F3D-4EE8-B333-CB20C4CCA7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46247A3B-1F3D-4EE8-B333-CB20C4CCA7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46247A3B-1F3D-4EE8-B333-CB20C4CCA7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E62AAE-68B5-4B42-9601-E6BD4B2198CF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\bin\Debug\MetofoEtà.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\bin\Debug\MetofoEtà.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\bin\Debug\MetofoEtà.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\obj\Debug\MetofoEtà.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\obj\Debug\MetofoEtà.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\obj\Debug\MetofoEtà.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\obj\Debug\MetofoEtà.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\MetofoEtà\MetofoEtà\obj\Debug\MetofoEtà.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\bin\Debug\MetofoEtà.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\bin\Debug\MetofoEtà.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\bin\Debug\MetofoEtà.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\obj\Debug\MetofoEtà.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\obj\Debug\MetofoEtà.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\obj\Debug\MetofoEtà.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\obj\Debug\MetofoEtà.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi vs\AnagraficaElimina\MetofoEtà\obj\Debug\MetofoEtà.pdb
